@@ -10,10 +10,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Register Page
 ![image](https://user-images.githubusercontent.com/90745903/219389817-5491bfac-b17f-4954-a92a-51c5c1d6b029.png)
 
-# Admin Panel
-
-![image](https://user-images.githubusercontent.com/90745903/219390994-b41355cf-fa34-44c0-89b3-4e48dbaf0efb.png)
-
 # User List
 ![image](https://user-images.githubusercontent.com/90745903/219391048-769c79d1-338f-45d4-a65c-01194b94615a.png)
 
